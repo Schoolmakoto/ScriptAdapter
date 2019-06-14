@@ -1,1 +1,1 @@
-"# ScriptAdapter" 
+Args [wynk db new Name] [wynk_auth db new Name] [File path]
