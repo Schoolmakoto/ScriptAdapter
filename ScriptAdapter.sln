@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptAdapter", "ScriptAdapter\ScriptAdapter.csproj", "{AE0772FA-B0DF-43BC-9B33-25FFFF774243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0772FA-B0DF-43BC-9B33-25FFFF774243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0772FA-B0DF-43BC-9B33-25FFFF774243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0772FA-B0DF-43BC-9B33-25FFFF774243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0772FA-B0DF-43BC-9B33-25FFFF774243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7BDF39-44EA-4BE9-9127-14D1232462CD}
+	EndGlobalSection
+EndGlobal

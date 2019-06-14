@@ -1,0 +1,7 @@
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\bin\Debug\ScriptAdapter.exe.config
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\bin\Debug\ScriptAdapter.exe
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\bin\Debug\ScriptAdapter.pdb
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\obj\Debug\ScriptAdapter.csprojAssemblyReference.cache
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\obj\Debug\ScriptAdapter.csproj.CoreCompileInputs.cache
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\obj\Debug\ScriptAdapter.exe
+D:\Repos\Veriz\console applications\script adapter\ScriptAdapter\ScriptAdapter\obj\Debug\ScriptAdapter.pdb
